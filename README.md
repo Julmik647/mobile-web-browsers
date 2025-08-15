@@ -1,5 +1,5 @@
-# Desktop Web Browsers (Currently: 250)
-Almost full list of Desktop Web Browsers (not all browsers in the list are recommended for daily use)
+# Mobile Web Browsers (Currently: [number coming soon])
+[Work in progress] List of mobile web browsers inspired by nerdyslacker's list of desktop web browsers (not all browsers in the list are recommended for daily use)
 
 <div align="center">
 <img src="dino.png" width="200"/>
