@@ -18,7 +18,8 @@
 | <a id="C"></a> [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | V8, Blink | Android | Open-source browser project |
 | [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) | Blink, (WebKit on iOS) | Android, iOS | Full-fledged browser with intuitive search engine |
 | [Cromite](https://github.com/uazo/cromite) | - | Android | Bromite fork with ad blocking |
-| <a id="D"></a> [DuckDuckGo Browser](https://duckduckgo.com/app) | Blink-based Webview on Android, WebKit on iOS | Android, iOS | Free browsing app with privacy protection |
+| <a id="D"></a> [Dolphin Browser](https://dolphin.com/) | - | Android, iOS | Fast, smart, personal. Browse better today with Dolphin Browser. |
+| [DuckDuckGo Browser](https://duckduckgo.com/app) | Blink-based Webview on Android, WebKit on iOS | Android, iOS | Free browsing app with privacy protection |
 | <a id="E"></a> [Ecosia Browser](https://www.ecosia.org/browser) | - | Android, iOS | The greenest browser on Earth |
 | <a id="F"></a> [Firefox Browser](https://www.mozilla.org/firefox/new/) | Gecko, (WebKit on iOS) | Android, iOS, Firefox OS | Free and open-source by Mozilla Foundation |
 | <a id="G"></a> [Ghostery Browser](https://www.ghostery.com/ghostery-private-browser) | - | Android, iOS | Blocks ads, trackers & other pop-ups **[Discontinued]** |
@@ -28,15 +29,17 @@
 | <a id="I"></a> 
 | <a id="J"></a> 
 | <a id="K"></a> 
-| <a id="L"></a> 
-| <a id="M"></a> [Maxthon Browser](https://www.maxthon.com/) | - | Android. iOS | Browser with blockchain app support |
+| <a id="L"></a> [Lemur Browser](https://www.lemurbrowser.com/app/en.html) | - | Android, iOS | Support Chrome and Edge extensions. Whether it's Chrome,Edge,or Tampermonkey, All included |
+| <a id="M"></a> [Mask Browser](https://wap.maskbrowser.net/) | - | Android | Faster, Safer, Simpler and more Powerful |
+| [Maxthon Browser](https://www.maxthon.com/) | - | Android. iOS | Browser with blockchain app support |
 | [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) | Blink on Android, Webkit on iOS, EdgeHTML on Windows 10 Mobile | Android, iOS, Windows 10 Mobile | Cross-platform web browser by Microsoft |
-| <a id="N"></a> 
+| [Mises Browser](https://www.mises.site/) | - | Android | The world’s first fast, secure and  extension-supported mobile Web3 browser |
+| <a id="N"></a> [Nexus+](https://cerio.app/nexus/) | Webkit | iOS | frameless browser for your progressive web apps |
 | <a id="O"></a> [Opera](https://www.opera.com/) | Blink, V8, (WebKit on iOS) | Android, iOS | Fast, efficient browser with built-in features |
 | [Opera GX](https://www.opera.com/gx) | Blink, V8, (WebKit on iOS) | Android, iOS | Browser built for gamers |
 | [Orbitum Browser](https://orbitum.com/) | - | Android | Browser with social network features |
 | [Orion Browser](https://browser.kagi.com/) | WebKit | iOS | Fast, private browser |
-| <a id="P"></a> 
+| <a id="P"></a> [Puffin Incognito Browser](https://www.puffin.com/incognito-browser) | - | Android, iOS | Protecting human rights against tyranny and injustice. Complete anonymity and ultimate security.|
 | [Puffin Web Browser](https://www.puffin.com/web-browser) | - | Android | Remote browser by CloudMosa |
 | <a id="Q"></a> 
 | [Quetta Browser](https://www.quetta.net/) | - | Android, iOS | Your online privacy isn't an option, it's our foundation. |
@@ -46,7 +49,8 @@
 | [Tor Browser](https://www.torproject.org/download/) | Gecko | Android | Free and open-source software guaranteeing anonymity online and enhancing security and safety. |
 | [Tusk Browser](https://tuskbrowser.com/) | - | Android, iOS | Freedom-First Web Browser and Search Engine developed for Patriots, allowing users to see all sides. |
 | [Twinkstar Browser](https://www.twinkstar.com/) | - | Android | A browser loved by college students, offers a range of distinctive features |
-| <a id="U"></a> [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-android) | Blink, V8 | Android | Free and open-source Chromium variant without Google-specific web services. |
+| <a id="U"></a> [Ultimatum](https://github.com/gonzazoid/Ultimatum) | Blink | Android | chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more |
+| [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-android) | Blink, V8 | Android | Free and open-source Chromium variant without Google-specific web services. |
 | <a id="V"></a> [Vivaldi Browser](https://vivaldi.com/) | Blink, V8, (WebKit on iOS) | Android, iOS | Powerful, personal, and private web browser packed with features. |
 | <a id="W"></a> 
 | <a id="X"></a> [Xvast Browser](https://www.xvast.com/) | Blink, (WebKit on iOS) | Android, iOS | High-speed, secure DRM browser from Haihaisoft. |
