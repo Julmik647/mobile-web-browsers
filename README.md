@@ -9,8 +9,8 @@
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="A"></a> [Arc search]([https://arc.net/)](https://arc.net/search) | - | Android, iOS | Fastest way to search.
-Cleanest way to browse. |
+| <a id="NUM"></a>
+| <a id="A"></a> [Arc search](https://arc.net/search) | - | Android, iOS | Fastest way to search. Cleanest way to browse. |
 | [Avast Secure Browser](https://www.avast.com/secure-browser)  | - | Android, iOS | Free web browser for secure protection |
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser) | - | Android | Secure browser for online privacy |
 | [AXplorer](https://axia.global/axplorer) | - | - | Use-to-earn, private, fast browser |
@@ -49,17 +49,10 @@ Cleanest way to browse. |
 | <a id="U"></a> [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-android) | Blink, V8 | Android | Free and open-source Chromium variant without Google-specific web services. |
 | <a id="V"></a> [Vivaldi Browser](https://vivaldi.com/) | Blink, V8, (WebKit on iOS) | Android, iOS | Powerful, personal, and private web browser packed with features. |
 | <a id="W"></a> 
-| [Wavebox Browser](https://wavebox.io/) | Blink | Windows, macOS, Linux | Secure, private Chromium browser for productive working across various web apps. |
-| [WebBuddy](https://bigbearlabs.com/webbuddy/) | - | macOS | In-App Browser for Mac Apps. |
-| [Webian Shell](https://webian.org/) | Gecko | Windows, Linux | Browser-based operating system UI for web use. |
-| [WebNet Official](https://web-net.ml/download/) | - | Windows, macOS | Fast, reliable Chromium Web Browser that doesn't track users. |
-| [WebSM Browser](https://github.com/v38armageddon/WebSM) | Microsoft WebView2 | Microsoft Windows | Simple, minimalist UWP-based web browser. |
-| [Wexond Browser](https://github.com/wexond/browser-base) | Electron | Windows, macOS, Linux | Modern browser built with Electron and React. **[Archived]** |
-| <a id="X"></a> [Xvast Browser](https://www.xvast.com/) | Blink | Windows, macOS | High-speed, secure DRM browser from Haihaisoft. |
-| <a id="Y"></a> [Y8 Browser](https://www.y8.com/download-app) | Blink | Windows, macOS, Linux | Browser for playing all games, including Flash games. |
-| [Yaeb Browser](https://github.com/bengl/yaeb) | - | - | Minimalist Electron-based browser with API for webview manipulation. |
-| [Yandex Browser](https://browser.yandex.com/) | Blink | Windows, macOS, Linux | Freeware browser by Yandex, based on Chromium. |
-| <a id="Z"></a> [Zen Browser](https://zen-browser.app/) | Gecko | Windows, macOS, Linux | Privacy-focused browser for tranquil web browsing. |
+| <a id="X"></a> [Xvast Browser](https://www.xvast.com/) | Blink, (WebKit on iOS) | Android, iOS | High-speed, secure DRM browser from Haihaisoft. |
+| <a id="Y"></a> 
+| [Yandex Browser](https://browser.yandex.com/) | Blink (WebKit on iOS) | Android, iOS | Freeware browser by Yandex, based on Chromium. |
+| <a id="Z"></a> 
 
 [0-9](#NUM) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
@@ -74,3 +67,4 @@ Cleanest way to browse. |
 - [CostcoFanboy](https://github.com/CostcoFanboy)
 - [anuragrao04](https://github.com/anuragrao04)
 - [niutech](https://github.com/niutech)
+- [nerdyslacker](https://github.com/nerdyslacker)
