@@ -10,7 +10,8 @@
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
 | <a id="NUM"></a>
-| <a id="A"></a> [Arc search](https://arc.net/search) | - | Android, iOS | Fastest way to search. Cleanest way to browse. |
+| <a id="A"></a> [Adblock Browser](https://adblockbrowser.org/) | - | Android | Ads Under Control: Discover a Clean Internet with AdblockBrowser | 
+| [Arc search](https://arc.net/search) | - | Android, iOS | Fastest way to search. Cleanest way to browse. |
 | [Avast Secure Browser](https://www.avast.com/secure-browser)  | - | Android, iOS | Free web browser for secure protection |
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser) | - | Android | Secure browser for online privacy |
 | [AXplorer](https://axia.global/axplorer) | - | - | Use-to-earn, private, fast browser |
