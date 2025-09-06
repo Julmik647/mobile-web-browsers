@@ -16,6 +16,7 @@
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser) | - | Android | Secure browser for online privacy |
 | [AXplorer](https://axia.global/axplorer) | - | - | Use-to-earn, private, fast browser |
 | <a id="B"></a> [Brave Browser](https://brave.com) | Blink, V8, (WebKit on iOS) | Android, iOS | Fast, private and secure |
+| [Browser](https://browser-app.com/) | - | Android, iOS | Your BROWSER for Android & iOS |
 | <a id="C"></a> [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | V8, Blink | Android | Open-source browser project |
 | [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) | Blink, (WebKit on iOS) | Android, iOS | Full-fledged browser with intuitive search engine |
 | [Cromite](https://github.com/uazo/cromite) | - | Android | Bromite fork with ad blocking |
