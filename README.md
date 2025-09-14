@@ -11,6 +11,7 @@
 |--------------|--------|-------------------|-------------|
 | <a id="NUM"></a>
 | <a id="A"></a> [Adblock Browser](https://adblockbrowser.org/) | - | Android | Ads Under Control: Discover a Clean Internet with AdblockBrowser | 
+| [AdBlocker Ultimate Browser](https://adblockultimate.net/android) | - | Android | - |
 | [Arc search](https://arc.net/search) | - | Android, iOS | Fastest way to search. Cleanest way to browse. |
 | [Avast Secure Browser](https://www.avast.com/secure-browser)  | - | Android, iOS | Free web browser for secure protection |
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser) | - | Android | Secure browser for online privacy |
@@ -46,7 +47,8 @@
 | [Mises Browser](https://www.mises.site/) | - | Android | The world’s first fast, secure and  extension-supported mobile Web3 browser |
 | <a id="N"></a> [Naver Whale](https://whale.naver.com/en/) | - | Android, iOS | - | 
 | [Nexus+](https://cerio.app/nexus/) | Webkit | iOS | frameless browser for your progressive web apps |
-| <a id="O"></a> [Opera](https://www.opera.com/) | Blink, V8, (WebKit on iOS) | Android, iOS | Fast, efficient browser with built-in features |
+| <a id="O"></a> [Onion browser](https://onionbrowser.com/) | Webkit | iOS | Free to be you. |
+| [Opera](https://www.opera.com/) | Blink, V8, (WebKit on iOS) | Android, iOS | Fast, efficient browser with built-in features |
 | [Opera GX](https://www.opera.com/gx) | Blink, V8, (WebKit on iOS) | Android, iOS | Browser built for gamers |
 | [Opera Mini](https://www.opera.com/mini), [basic phones version](https://www.opera.com/mobile/basic-phones) | - | Android, Java ME | - |
 | [Opera Touch](https://www.opera.com/mobile/touch) | - | Android | - | 
