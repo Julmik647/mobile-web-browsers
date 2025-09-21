@@ -92,12 +92,6 @@
 
 [0-9](#NUM) | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
-**Bonus**
-
-[Browser Tamer](https://www.aloneguid.uk/projects/bt/) - is a smart and powerful tool that acts as a browser proxy on your machine. It catches the links you click and redirects them to a browser or browser profile of your choice. You can set up rules based on the link’s domain, protocol, file extension and more. 
-
-[OneLaunch](https://onelaunch.com/) - the desktop integration that will upgrade your Windows 11 experience with all the features you’ve ever wanted and never had in your PC.
-
 **Credits for contribution to**
 - [norafroud](https://github.com/norafroud)
 - [CostcoFanboy](https://github.com/CostcoFanboy)
