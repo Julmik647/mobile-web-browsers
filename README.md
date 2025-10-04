@@ -9,20 +9,27 @@
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="NUM"></a>
+| <a id="NUM"></a> [360 Mobile browser](https://mse.360.cn/) | - | Android, iOS | Navigate the world with ease |
 | <a id="A"></a> [Adblock Browser](https://adblockbrowser.org/) | - | Android | Ads Under Control: Discover a Clean Internet with AdblockBrowser | 
 | [AdBlocker Ultimate Browser](https://adblockultimate.net/android) | - | Android | - |
+| [Agregore Browser](https://github.com/AgregoreWeb/agregore-mobile/) | Blink, V8 | Android | Minimal browser for distributed web |
 | [Angelfish](https://apps.kde.org/angelfish/) | - | Mobile Linux | Angelfish is a modern mobile webbrowser |
 | [Arc search](https://arc.net/search) | - | Android, iOS | Fastest way to search. Cleanest way to browse. |
+| [Asobi](https://github.com/bdashore3/Asobi) | - | iOS | Minimalist navigation bar browser |
 | [Avast Secure Browser](https://www.avast.com/secure-browser)  | - | Android, iOS | Free web browser for secure protection |
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser) | - | Android | Secure browser for online privacy |
 | [AXplorer](https://axia.global/axplorer) | - | - | Use-to-earn, private, fast browser |
-| <a id="B"></a> [Brave Browser](https://brave.com) | Blink, V8, (WebKit on iOS) | Android, iOS | Fast, private and secure |
+| <a id="B"></a> [Beacon Browser](https://impervious.com/beacon) | Webkit | iOS | For decentralized internet |
+| [Brave Browser](https://brave.com) | Blink, V8, (WebKit on iOS) | Android, iOS | Fast, private and secure |
 | [Browser](https://browser-app.com/) | - | Android, iOS | Your BROWSER for Android & iOS |
-| <a id="C"></a> [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | V8, Blink | Android | Open-source browser project |
+| <a id="C"></a> [Carbon](https://carbon.website/) | Blink, Webkit on iOS | iOS, Android | Free and open-source |
+| [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | V8, Blink | Android | Open-source browser project |
 | [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) | Blink, (WebKit on iOS) | Android, iOS | Full-fledged browser with intuitive search engine |
 | [Cromite](https://github.com/uazo/cromite) | - | Android | Bromite fork with ad blocking |
-| <a id="D"></a> [Dolphin Browser](https://dolphin.com/) | - | Android, iOS | Fast, smart, personal. Browse better today with Dolphin Browser. |
+| [CryptoTab Browser](https://cryptobrowser.site/en/) | - | Android | Browser with mining features |
+| <a id="D"></a> [Decentr Browser](https://decentr.net/) | WebKit, Blink | iOS, Android | Web3 blockchain/metaverse browser |
+| [Dezor](https://www.dezor.net/) | - | Android | Browser including VPN & Adblocker |
+| [Dolphin Browser](https://dolphin.com/) | - | Android, iOS | Fast, smart, personal. Browse better today with Dolphin Browser. |
 | [Dolphin Zero](https://play.google.com/store/apps/details?id=com.dolphin.browser.zero) | - | Android | - |
 | [DuckDuckGo Browser](https://duckduckgo.com/app) | Blink-based Webview on Android, WebKit on iOS | Android, iOS | Free browsing app with privacy protection |
 | <a id="E"></a> [Ecosia Browser](https://www.ecosia.org/browser) | - | Android, iOS | The greenest browser on Earth |
@@ -36,6 +43,7 @@
 | [Ghostery Browser](https://www.ghostery.com/ghostery-private-browser) | - | Android, iOS | Blocks ads, trackers & other pop-ups **[Discontinued]** |
 | [Glow Browser](https://github.com/revblaze/Glow) | - | iOS | Light-weight web browser |
 | [Google Chrome](https://www.google.com/chrome/) | Blink (WebKit on iOS), V8 | Android, iOS | Cross-platform web browser by Google |
+| [GNU IceCat](https://www.gnu.org/software/gnuzilla/) | Gecko | Android | GNU version of Firefox |
 | <a id="H"></a> Hola Browser: [Android](https://play.google.com/store/apps/details?id=com.talpa.hibrowser), [iOS](https://apps.apple.com/ua/app/hola-browser-private-fast-web/id6738905281) | - | Android, iOS | Experience a lightning-fast and secure browsing experience with Hola Browser! |
 | [HUAWEI Browser](https://consumer.huawei.com/en/mobileservices/browser/) | - | Android | FIND. KNOW. DISCOVER. |
 | [HuBrowser](https://hubrowser.com/) | - | Android | made for user, paid by user |
@@ -62,14 +70,17 @@
 | [Opera Touch](https://www.opera.com/mobile/touch) | - | Android | - | 
 | [Orbitum Browser](https://orbitum.com/) | - | Android | Browser with social network features |
 | [Orion Browser](https://browser.kagi.com/) | WebKit | iOS | Fast, private browser |
-| <a id="P"></a> [Puffin Incognito Browser](https://www.puffin.com/incognito-browser) | - | Android, iOS | Protecting human rights against tyranny and injustice. Complete anonymity and ultimate security.|
+| <a id="P"></a> [Power Browser](https://powerdao.ai/features/) | - | Android | Designed for web3 aspirations |
+| [Puffin Incognito Browser](https://www.puffin.com/incognito-browser) | - | Android, iOS | Protecting human rights against tyranny and injustice. Complete anonymity and ultimate security.|
 | [Puffin Web Browser](https://www.puffin.com/web-browser) | - | Android | Remote browser by CloudMosa |
-| <a id="Q"></a> [Quetta Browser](https://www.quetta.net/) | - | Android, iOS | Your online privacy isn't an option, it's our foundation. |
+| <a id="Q"></a> [QQ Browser](https://browser.qq.com/) | WebKit, Trident | Android, iOS | Web browser by Tencent |
+| [Quetta Browser](https://www.quetta.net/) | - | Android, iOS | Your online privacy isn't an option, it's our foundation. |
 | <a id="R"></a> [Rainsee Browser](https://play.google.com/store/apps/details?id=com.yjllq.internet) | - | Android | - |
 | <a id="S"></a> [Safari](https://www.apple.com/am/safari/) | WebKit, Nitro | iOS | Apple's web browser |
 | [Samsung Internet](https://www.samsung.com/us/support/owners/app/samsung-internet) | - | Android| Simple, Fast, and Reliable web browser for your phone and tablet. Experience more secure Web browsing with Secret Mode, Biometric Web Login and Contents Blocker. |
+| [Sleipnir Browser](https://www.fenrir-inc.com/jp/sleipnir/) | Blink (earlier Gecko) | iOS, Android, Windows Phone | Tabbed browser with customization features. |
 | [SmartCookieWeb](https://smartcookieweb.com/) | - | Android | A powerful web browser in your pocket. |
-| [SRWare Iron Browser](https://www.srware.net/iron/) | Blink, V8 | Windows, macOS, Linux | Focuses on user security. |
+| [SRWare Iron Browser](https://www.srware.net/iron/) | Blink, V8 | Android | Focuses on user security. |
 | [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser) | - | Android | - |
 | <a id="T"></a> [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Android | Fast, secure and private browser that puts you in control of your personal data online. |
 | [Thorium Browser](https://thorium.rocks/) | Blink | Android | Fastest Chromium fork, named after radioactive element No. 90. |
