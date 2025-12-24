@@ -25,6 +25,7 @@
 | <a id="C"></a> [Carbon](https://carbon.website/) | Blink, Webkit on iOS | iOS, Android | Free and open-source |
 | [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | V8, Blink | Android | Open-source browser project |
 | [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) | Blink, (WebKit on iOS) | Android, iOS | Full-fledged browser with intuitive search engine |
+| [Comet](https://www.perplexity.ai/comet) | Chromium | Android | A Browser for Agentic Search by Perplexity |
 | [Cromite](https://github.com/uazo/cromite) | - | Android | Bromite fork with ad blocking |
 | [CryptoTab Browser](https://cryptobrowser.site/en/) | - | Android | Browser with mining features |
 | <a id="D"></a> [Decentr Browser](https://decentr.net/) | WebKit, Blink | iOS, Android | Web3 blockchain/metaverse browser |
