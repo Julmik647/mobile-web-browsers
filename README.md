@@ -34,6 +34,7 @@
 | [Dolphin Zero](https://play.google.com/store/apps/details?id=com.dolphin.browser.zero) | - | Android | - |
 | [DuckDuckGo Browser](https://duckduckgo.com/app) | Blink-based Webview on Android, WebKit on iOS | Android, iOS | Free browsing app with privacy protection |
 | <a id="E"></a> [Ecosia Browser](https://www.ecosia.org/browser) | - | Android, iOS | The greenest browser on Earth |
+| [Elixir browser](https://github.com/SF-FLAM/ElixirBrowser) | Blink, V8 | Android | Inspired by Kiwi Browser, an enhanced Chromium for Android with full extension support and UI improvements. |
 | <a id="F"></a> [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) | Gecko | Android | - | 
 | [Fiery Browser](https://play.google.com/store/apps/details?id=hot.fiery.browser) | - | Android | - |
 | [Firefox Browser](https://www.mozilla.org/firefox/new/) | Gecko, (WebKit on iOS) | Android, iOS, Firefox OS | Free and open-source by Mozilla Foundation |
@@ -41,11 +42,11 @@
 | [Flowsurf](https://play.google.com/store/apps/details?id=org.flow.browser) | - | Android | - |
 | [Fulguris](https://github.com/Slion/Fulguris) | - | Android | - |
 | <a id="G"></a> [Gear Browser](https://gear4.app/) | Webkit | iOS | Web Browser for Geek |
-| [Ghostery Browser](https://www.ghostery.com/ghostery-private-browser) | - | Android, iOS | Blocks ads, trackers & other pop-ups **[Discontinued]** |
 | [Glow Browser](https://github.com/revblaze/Glow) | - | iOS | Light-weight web browser |
 | [Google Chrome](https://www.google.com/chrome/) | Blink (WebKit on iOS), V8 | Android, iOS | Cross-platform web browser by Google |
 | [GNU IceCat](https://www.gnu.org/software/gnuzilla/) | Gecko | Android | GNU version of Firefox |
-| <a id="H"></a> Hola Browser: [Android](https://play.google.com/store/apps/details?id=com.talpa.hibrowser), [iOS](https://apps.apple.com/ua/app/hola-browser-private-fast-web/id6738905281) | - | Android, iOS | Experience a lightning-fast and secure browsing experience with Hola Browser! |
+| <a id="H"></a> [Helium Android](https://github.com/jqssun/android-helium-browser) | - | Android | Private and secure Android browser with support for browser extensions. **[Experimental]
+| Hola Browser: [Android](https://play.google.com/store/apps/details?id=com.talpa.hibrowser), [iOS](https://apps.apple.com/ua/app/hola-browser-private-fast-web/id6738905281) | - | Android, iOS | Experience a lightning-fast and secure browsing experience with Hola Browser! |
 | [HUAWEI Browser](https://consumer.huawei.com/en/mobileservices/browser/) | - | Android | FIND. KNOW. DISCOVER. |
 | [HuBrowser](https://hubrowser.com/) | - | Android | made for user, paid by user |
 | <a id="I"></a> [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) | - | Android | A web browser for Android, based on Mozilla's Fenix version of Firefox, GeckoView and Mozilla Android Components. |
