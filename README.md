@@ -19,7 +19,8 @@
 | [Avast Secure Browser](https://www.avast.com/secure-browser)  | - | Android, iOS | Free web browser for secure protection |
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser) | - | Android | Secure browser for online privacy |
 | [AXplorer](https://axia.global/axplorer) | - | - | Use-to-earn, private, fast browser |
-| <a id="B"></a> [Beacon Browser](https://impervious.com/beacon) | Webkit | iOS | For decentralized internet |
+| <a id="B"></a> [Banana Browser](https://triplebanana.dev/) | - | Android | 
+| [Beacon Browser](https://impervious.com/beacon) | Webkit | iOS | For decentralized internet |
 | [Brave Browser](https://brave.com) | Blink, V8, (WebKit on iOS) | Android, iOS | Fast, private and secure |
 | [Browser](https://browser-app.com/) | - | Android, iOS | Your BROWSER for Android & iOS |
 | <a id="C"></a> [Carbon](https://carbon.website/) | Blink, Webkit on iOS | iOS, Android | Free and open-source |
@@ -84,6 +85,7 @@
 | [SmartCookieWeb](https://smartcookieweb.com/) | - | Android | A powerful web browser in your pocket. |
 | [SRWare Iron Browser](https://www.srware.net/iron/) | Blink, V8 | Android | Focuses on user security. |
 | [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser) | - | Android | - |
+| [SwizzTube](https://apps.apple.com/us/app/swizztube-adblock-for-youtube/id6466721604) | Webkit | iOS | video-optimized web browser
 | <a id="T"></a> [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Android | Fast, secure and private browser that puts you in control of your personal data online. |
 | [Thorium Browser](https://thorium.rocks/) | Blink | Android | Fastest Chromium fork, named after radioactive element No. 90. |
 | [Tor Browser](https://www.torproject.org/download/) | Gecko | Android | Free and open-source software guaranteeing anonymity online and enhancing security and safety. |
