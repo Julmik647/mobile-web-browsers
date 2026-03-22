@@ -9,7 +9,9 @@
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="NUM"></a> [360 Mobile browser](https://mse.360.cn/) | - | Android, iOS | Navigate the world with ease |
+| <a id="NUM"></a> [360 AI browser](https://mse.360.cn/ai) | - | Android | - |
+| [360 Extreme browser](https://mse.360.cn/lite/) | - | Android, iOS | - |
+| [360 Mobile browser](https://mse.360.cn/) | - | Android, iOS | Navigate the world with ease |
 | <a id="A"></a> [Adblock Browser](https://adblockbrowser.org/) | - | Android | Ads Under Control: Discover a Clean Internet with AdblockBrowser | 
 | [AdBlocker Ultimate Browser](https://adblockultimate.net/android) | - | Android | - |
 | [Agregore Browser](https://github.com/AgregoreWeb/agregore-mobile/) | Blink, V8 | Android | Minimal browser for distributed web |
