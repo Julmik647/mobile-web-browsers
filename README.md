@@ -16,6 +16,7 @@
 | [AdBlocker Ultimate Browser](https://adblockultimate.net/android) | - | Android | - |
 | [Agregore Browser](https://github.com/AgregoreWeb/agregore-mobile/) | Blink, V8 | Android | Minimal browser for distributed web |
 | [Angelfish](https://apps.kde.org/angelfish/) | - | Mobile Linux | Angelfish is a modern mobile webbrowser |
+| [AOSmium Browser](https://axpos.org/docs/knowledge/browser/) | Chromium | Android | The AXP.OS browser. |
 | [Arc search](https://arc.net/search) | - | Android, iOS | Fastest way to search. Cleanest way to browse. |
 | [Asobi](https://github.com/bdashore3/Asobi) | - | iOS | Minimalist navigation bar browser |
 | [Avast Secure Browser](https://www.avast.com/secure-browser)  | - | Android, iOS | Free web browser for secure protection |
