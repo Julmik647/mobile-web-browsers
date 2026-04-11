@@ -43,6 +43,7 @@
 | [Firefox Browser](https://www.mozilla.org/firefox/new/) | Gecko, (WebKit on iOS) | Android, iOS, Firefox OS | Free and open-source by Mozilla Foundation |
 | [Firefox Focus](https://www.firefox.com/browsers/mobile/focus/) | - | Android, iOS | Simply private mobile browsing |
 | [Flowsurf](https://play.google.com/store/apps/details?id=org.flow.browser) | - | Android | - |
+| [Free Adblocker Browser](https://freeadblockerbrowser.com/) | - | Android | Ad-free, Private, and Easy Browsing |
 | [Fulguris](https://github.com/Slion/Fulguris) | - | Android | - |
 | <a id="G"></a> [Gear Browser](https://gear4.app/) | Webkit | iOS | Web Browser for Geek |
 | [Glow Browser](https://github.com/revblaze/Glow) | - | iOS | Light-weight web browser |
