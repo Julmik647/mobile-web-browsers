@@ -9,7 +9,8 @@
 
 | Browser Name | Engine | Operating System | Description |
 |--------------|--------|-------------------|-------------|
-| <a id="NUM"></a> [360 AI browser](https://mse.360.cn/ai) | - | Android | - |
+| <a id="NUM"></a> [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) | - | Android | Browser and download manager
+| [360 AI browser](https://mse.360.cn/ai) | - | Android | - |
 | [360 Extreme browser](https://mse.360.cn/lite/) | - | Android, iOS | - |
 | [360 Mobile browser](https://mse.360.cn/) | - | Android, iOS | Navigate the world with ease |
 | <a id="A"></a> [Adblock Browser](https://adblockbrowser.org/) | - | Android | Ads Under Control: Discover a Clean Internet with AdblockBrowser | 
@@ -103,6 +104,7 @@
 | [Vivaldi Browser](https://vivaldi.com/) | Blink, V8, (WebKit on iOS) | Android, iOS | Powerful, personal, and private web browser packed with features. |
 | [Vivo Browser](https://play.google.com/store/apps/details?id=com.vivo.browser) | - | Android | - |
 | <a id="W"></a> [Waterfox](https://www.waterfox.net/) | Gecko | Android | Fast and Private Web Browser | 
+| [Web Video Caster](https://www.webvideocaster.com/) | - | Android, iOS | Cast Web Videos to Your TV |
 | <a id="X"></a> [XBrowser](https://en.xbext.com/index.html) | - | Android | Small and powerful. No news feed No message push. Minimal permissions,security and privacy. |
 | [Xvast Browser](https://www.xvast.com/) | Blink, (WebKit on iOS) | Android, iOS | High-speed, secure DRM browser from Haihaisoft. |
 | <a id="Y"></a> [Yandex Browser](https://browser.yandex.com/) | Blink (WebKit on iOS) | Android, iOS | Freeware browser by Yandex, based on Chromium. |
