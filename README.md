@@ -86,6 +86,7 @@
 | [Samsung Internet](https://www.samsung.com/us/support/owners/app/samsung-internet) | - | Android| Simple, Fast, and Reliable web browser for your phone and tablet. Experience more secure Web browsing with Secret Mode, Biometric Web Login and Contents Blocker. |
 | [Sleipnir Browser](https://www.fenrir-inc.com/jp/sleipnir/) | Blink (earlier Gecko) | iOS, Android, Windows Phone | Tabbed browser with customization features. |
 | [SmartCookieWeb](https://smartcookieweb.com/) | - | Android | A powerful web browser in your pocket. |
+| [Soul Browser](https://play.google.com/store/apps/details?id=com.mycompany.app.soulbrowser) | webveiew | Android | - |
 | [SRWare Iron Browser](https://www.srware.net/iron/) | Blink, V8 | Android | Focuses on user security. |
 | [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser) | - | Android | - |
 | [SwizzTube](https://apps.apple.com/us/app/swizztube-adblock-for-youtube/id6466721604) | Webkit | iOS | video-optimized web browser
