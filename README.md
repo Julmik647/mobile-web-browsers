@@ -53,11 +53,11 @@
 | Hola Browser: [Android](https://play.google.com/store/apps/details?id=com.talpa.hibrowser), [iOS](https://apps.apple.com/ua/app/hola-browser-private-fast-web/id6738905281) | - | Android, iOS | Experience a lightning-fast and secure browsing experience with Hola Browser! |
 | [HUAWEI Browser](https://consumer.huawei.com/en/mobileservices/browser/) | - | Android | FIND. KNOW. DISCOVER. |
 | [HuBrowser](https://hubrowser.com/) | - | Android | made for user, paid by user |
-| <a id="I"></a> [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) | - | Android | A web browser for Android, based on Mozilla's Fenix version of Firefox, GeckoView and Mozilla Android Components. |
+| <a id="I"></a> [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) | Gecko | Android | A web browser for Android, based on Mozilla's Fenix version of Firefox, GeckoView and Mozilla Android Components. |
 | [Ironfox](https://gitlab.com/ironfox-oss/IronFox) | Gecko | Android | Private, secure, user first web browser for Android. |
 | <a id="J"></a> 
 | <a id="K"></a> KaiOS Browser | - | KaiOS | Defualt web browser on KaiOS. |
-| [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito) | - | Android | - |
+| [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito) | Gecko | Android | - |
 | <a id="L"></a> [Lemur Browser](https://www.lemurbrowser.com/app/en.html) | - | Android, iOS | Support Chrome and Edge extensions. Whether it's Chrome,Edge,or Tampermonkey, All included |
 | [Lunascape Browser](https://www.lunascape.org/browser/phoebe) | - | Android | Supports three different web engines |
 | <a id="M"></a> [Mask Browser](https://wap.maskbrowser.net/) | - | Android | Faster, Safer, Simpler and more Powerful |
@@ -76,16 +76,19 @@
 | [Opera Touch](https://www.opera.com/mobile/touch) | - | Android | - | 
 | [Orbitum Browser](https://orbitum.com/) | - | Android | Browser with social network features |
 | [Orion Browser](https://browser.kagi.com/) | WebKit | iOS | Fast, private browser |
-| <a id="P"></a> [Power Browser](https://powerdao.ai/features/) | - | Android | Designed for web3 aspirations |
+| <a id="P"></a> [Palladium](https://github.com/WeiguangTWK/Palladium) | Blink, V8 | Android | Privacy and security enhanced releases of Chromium allowed to use outside from GrapheneOS. |
+| [Power Browser](https://powerdao.ai/features/) | - | Android | Designed for web3 aspirations |
 | [Puffin Incognito Browser](https://www.puffin.com/incognito-browser) | - | Android, iOS | Protecting human rights against tyranny and injustice. Complete anonymity and ultimate security.|
 | [Puffin Web Browser](https://www.puffin.com/web-browser) | - | Android | Remote browser by CloudMosa |
 | <a id="Q"></a> [QQ Browser](https://browser.qq.com/) | WebKit, Trident | Android, iOS | Web browser by Tencent |
 | [Quetta Browser](https://www.quetta.net/) | - | Android, iOS | Your online privacy isn't an option, it's our foundation. |
 | <a id="R"></a> [Rainsee Browser](https://play.google.com/store/apps/details?id=com.yjllq.internet) | - | Android | - |
 | <a id="S"></a> [Safari](https://www.apple.com/am/safari/) | WebKit, Nitro | iOS | Apple's web browser |
+| [Sailfish Browser](https://docs.sailfishos.org/Support/Help_Articles/Web_Browser/) | Gecko | Sailfish OS | Defualt browser on Sailfish OS
 | [Samsung Internet](https://www.samsung.com/us/support/owners/app/samsung-internet) | - | Android| Simple, Fast, and Reliable web browser for your phone and tablet. Experience more secure Web browsing with Secret Mode, Biometric Web Login and Contents Blocker. |
 | [Sleipnir Browser](https://www.fenrir-inc.com/jp/sleipnir/) | Blink (earlier Gecko) | iOS, Android, Windows Phone | Tabbed browser with customization features. |
-| [SmartCookieWeb](https://smartcookieweb.com/) | - | Android | A powerful web browser in your pocket. |
+| [SmartCookieWeb](https://smartcookieweb.com/) | webview | Android | A powerful web browser in your pocket. |
+| [SmartCookieWeb Preview](https://github.com/CookieJarApps/SmartCookieWeb-Preview) | Gecko | Android |  SmartCookieWeb, redesigned using GeckoView | 
 | [Soul Browser](https://play.google.com/store/apps/details?id=com.mycompany.app.soulbrowser) | webveiew | Android | - |
 | [SRWare Iron Browser](https://www.srware.net/iron/) | Blink, V8 | Android | Focuses on user security. |
 | [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser) | - | Android | - |
@@ -99,13 +102,13 @@
 | [Ulaa Browser](https://ulaa.com/) | - | Android, iOS | Private. Secure. Superfast. |
 | [Ultimatum](https://github.com/gonzazoid/Ultimatum) | Blink | Android | chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more |
 | [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-android) | Blink, V8 | Android | Free and open-source Chromium variant without Google-specific web services. |
-| <a id="V"></a> [Vanadium Browser](https://github.com/GrapheneOS/Vanadium) | Blink, V8 | Android | Privacy and security enhanced releases of Chromium for GrapheneOS. |
-| [Via Browser](https://viayoo.com/) | - | Android, iOS | Fast, simple, and secure browser | 
+| <a id="V"></a> [Vanadium Browser](https://github.com/GrapheneOS/Vanadium) | Blink, V8 | GrapheneOS | Privacy and security enhanced releases of Chromium for GrapheneOS. |
+| [Via Browser](https://viayoo.com/) | webview on Android, webkit on iOS | Android, iOS | Fast, simple, and secure browser | 
 | [Vivaldi Browser](https://vivaldi.com/) | Blink, V8, (WebKit on iOS) | Android, iOS | Powerful, personal, and private web browser packed with features. |
 | [Vivo Browser](https://play.google.com/store/apps/details?id=com.vivo.browser) | - | Android | - |
 | <a id="W"></a> [Waterfox](https://www.waterfox.net/) | Gecko | Android | Fast and Private Web Browser | 
-| [Web Video Caster](https://www.webvideocaster.com/) | - | Android, iOS | Cast Web Videos to Your TV |
-| <a id="X"></a> [XBrowser](https://en.xbext.com/index.html) | - | Android | Small and powerful. No news feed No message push. Minimal permissions,security and privacy. |
+| [WebLibre](https://github.com/FaFre/WebLibre) | Gecko | Android | Libre Android browser built from scratch on Gecko |
+| <a id="X"></a> [XBrowser](https://en.xbext.com/index.html) | webview | Android | Small and powerful. No news feed No message push. Minimal permissions,security and privacy. |
 | [Xvast Browser](https://www.xvast.com/) | Blink, (WebKit on iOS) | Android, iOS | High-speed, secure DRM browser from Haihaisoft. |
 | <a id="Y"></a> [Yandex Browser](https://browser.yandex.com/) | Blink (WebKit on iOS) | Android, iOS | Freeware browser by Yandex, based on Chromium. |
 | <a id="Z"></a> 
