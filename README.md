@@ -77,6 +77,7 @@
 | [Orbitum Browser](https://orbitum.com/) | - | Android | Browser with social network features |
 | [Orion Browser](https://browser.kagi.com/) | WebKit | iOS | Fast, private browser |
 | <a id="P"></a> [Palladium](https://github.com/WeiguangTWK/Palladium) | Blink, V8 | Android | Privacy and security enhanced releases of Chromium allowed to use outside from GrapheneOS. |
+| [Phoenix](https://phoenix-browser.com/) | - | Android | All content and tools in one place |
 | [Power Browser](https://powerdao.ai/features/) | - | Android | Designed for web3 aspirations |
 | [Puffin Incognito Browser](https://www.puffin.com/incognito-browser) | - | Android, iOS | Protecting human rights against tyranny and injustice. Complete anonymity and ultimate security.|
 | [Puffin Web Browser](https://www.puffin.com/web-browser) | - | Android | Remote browser by CloudMosa |
