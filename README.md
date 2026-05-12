@@ -54,6 +54,7 @@
 | [HUAWEI Browser](https://consumer.huawei.com/en/mobileservices/browser/) | - | Android | FIND. KNOW. DISCOVER. |
 | [HuBrowser](https://hubrowser.com/) | - | Android | made for user, paid by user |
 | <a id="I"></a> [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) | Gecko | Android | A web browser for Android, based on Mozilla's Fenix version of Firefox, GeckoView and Mozilla Android Components. |
+| [Indic Browser](https://indicapps.com/) | Gecko | Android |  A fast, secure, ad-free and privacy-focused mobile browser  |
 | [Ironfox](https://gitlab.com/ironfox-oss/IronFox) | Gecko | Android | Private, secure, user first web browser for Android. |
 | <a id="J"></a> 
 | <a id="K"></a> KaiOS Browser | - | KaiOS | Defualt web browser on KaiOS. |
