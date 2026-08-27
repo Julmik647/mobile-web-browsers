@@ -49,7 +49,6 @@
 | [Glow Browser](https://github.com/revblaze/Glow) | - | iOS | Light-weight web browser |
 | [Google Chrome](https://www.google.com/chrome/) | Blink (WebKit on iOS), V8 | Android, iOS | Cross-platform web browser by Google |
 | [GNU IceCat](https://www.gnu.org/software/gnuzilla/) | Gecko | Android | GNU version of Firefox |
-| <a id="H"></a> [Helium Android](https://github.com/jqssun/android-helium-browser) | - | Android | Private and secure Android browser with support for browser extensions. **[Experimental]
 | Hola Browser: [Android](https://play.google.com/store/apps/details?id=com.talpa.hibrowser), [iOS](https://apps.apple.com/ua/app/hola-browser-private-fast-web/id6738905281) | - | Android, iOS | Experience a lightning-fast and secure browsing experience with Hola Browser! |
 | [HUAWEI Browser](https://consumer.huawei.com/en/mobileservices/browser/) | - | Android | FIND. KNOW. DISCOVER. |
 | [HuBrowser](https://hubrowser.com/) | - | Android | made for user, paid by user |
@@ -97,6 +96,7 @@
 | [SwizzTube](https://apps.apple.com/us/app/swizztube-adblock-for-youtube/id6466721604) | Webkit | iOS | video-optimized web browser
 | <a id="T"></a> [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Android | Fast, secure and private browser that puts you in control of your personal data online. |
 | [Thorium Browser](https://thorium.rocks/) | Blink | Android | Fastest Chromium fork, named after radioactive element No. 90. |
+| [Titanium Browser](https://github.com/jqssun/android-titanium-browser) | Blink, V8 | Android | A secure and fully open-source, Chromium-based web browser with support for extensions, based on Vanadium by GrapheneOS. |
 | [Tor Browser](https://www.torproject.org/download/) | Gecko | Android | Free and open-source software guaranteeing anonymity online and enhancing security and safety. |
 | [Tusk Browser](https://tuskbrowser.com/) | - | Android, iOS | Freedom-First Web Browser and Search Engine developed for Patriots, allowing users to see all sides. |
 | [Twinkstar Browser](https://www.twinkstar.com/) | - | Android | A browser loved by college students, offers a range of distinctive features |
