@@ -24,6 +24,7 @@
 | [AVG Secure Browser](https://www.avg.com/en-us/secure-browser) | - | Android | Secure browser for online privacy |
 | <a id="B"></a> [Banana Browser](https://triplebanana.dev/) | - | Android | 
 | [Bare Browser](https://barebrowser.org/) | Blink, V8 | Android | de-Googled Chromium build for Android with real browser extensions, practical media tools, and privacy-conscious defaults.
+| [Basic Web Browser](https://www.basicwebbrowser.app/) | - | Android, iOS | fast yet easy to use app for browsing the internet
 | [Beacon Browser](https://impervious.com/beacon) | Webkit | iOS | For decentralized internet |
 | [Brave Browser](https://brave.com) | Blink, V8, WebKit on iOS | Android, iOS | Fast, private and secure |
 | [Browser](https://browser-app.com/) | - | Android, iOS | Your BROWSER for Android & iOS |
@@ -74,7 +75,9 @@
 | [Mises Browser](https://www.mises.site/) | - | Android, iOS | The world’s first fast, secure and  extension-supported mobile Web3 browser |
 | <a id="N"></a> [Naver Whale](https://whale.naver.com/en/) | - | Android, iOS | - | 
 | [Nexus+](https://cerio.app/nexus/) | Webkit | iOS | frameless browser for your progressive web apps |
-| <a id="O"></a> [Onion browser](https://onionbrowser.com/) | Webkit | iOS | Free to be you. |
+| [Nira Browser](https://github.com/prirai/nira-browser) | Gecko | Android | Android browser with multiple profiles, PWAs, extension and tab groups based on Geckoview | 
+| <a id="O"></a> [Omni Browser](https://github.com/REBEL-ROOT/omni-browser) | GeckoView | Android | A premium, privacy-first Android browser built with Jetpack Compose & Mozilla GeckoView. |
+| [Onion browser](https://onionbrowser.com/) | Webkit | iOS | Free to be you. |
 | [Opera](https://www.opera.com/) | Blink, V8, (WebKit on iOS) | Android, iOS | Fast, efficient browser with built-in features |
 | [Opera GX](https://www.opera.com/gx) | Blink, V8, (WebKit on iOS) | Android, iOS | Browser built for gamers |
 | Opera Mini [Android](https://www.opera.com/mini), [basic phones](https://www.opera.com/mobile/basic-phones) | - | Android, Java ME | - |
@@ -99,6 +102,7 @@
 | [Soul Browser](https://play.google.com/store/apps/details?id=com.mycompany.app.soulbrowser) | webveiew | Android | - |
 | [SRWare Iron Browser](https://www.srware.net/iron/) | Blink, V8 | Android | Focuses on user security. |
 | [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser) | - | Android | - |
+| [Stay Browser](https://staybrowser.com/) | - | Android | - |
 | <a id="T"></a> [Tempest Browser](https://www.tempest.com/browser) | Blink, V8 | Android | Fast, secure and private browser that puts you in control of your personal data online. |
 | [Thorium Browser](https://thorium.rocks/) | Blink | Android | Fastest Chromium fork, named after radioactive element No. 90. 
 | [Titanium Browser](https://github.com/jqssun/android-titanium-browser) | Blink, V8 | Android | Secure open-source Android browser with support for extensions
@@ -115,6 +119,7 @@
 | [Vivo Browser](https://play.google.com/store/apps/details?id=com.vivo.browser) | - | Android | - |
 | <a id="W"></a> [Waterfox](https://www.waterfox.net/) | Gecko | Android | Fast and Private Web Browser | 
 | [WebLibre](https://github.com/FaFre/WebLibre) | Gecko | Android | Libre Android browser built from scratch on Gecko |
+| [WebAura](https://creedmotions.store/apps/webaura/) | - | Android, iOS | A private, capable browser that brings tabs, downloads, saved media, music tools and extension support into one focused workspace. |
 | <a id="X"></a> [XBrowser](https://en.xbext.com/index.html) | webview | Android | Small and powerful. No news feed No message push. Minimal permissions,security and privacy. |
 | [Xvast Browser](https://www.xvast.com/) | Blink, (WebKit on iOS) | Android, iOS | High-speed, secure DRM browser from Haihaisoft. |
 | <a id="Y"></a> [Yandex Browser](https://browser.yandex.com/) | Blink (WebKit on iOS) | Android, iOS | Freeware browser by Yandex, based on Chromium. |
