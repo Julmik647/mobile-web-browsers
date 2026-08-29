@@ -30,6 +30,7 @@
 | [Browser](https://browser-app.com/) | - | Android, iOS | Your BROWSER for Android & iOS |
 | <a id="C"></a> [Carbon](https://carbon.website/) | Blink, Webkit on iOS | iOS, Android | Free and open-source |
 | [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | V8, Blink | Android | Open-source browser project |
+| [Chromium Android desktop](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=AndroidDesktop) / [Auto-published releases](https://github.com/andrewginns/chromium-browser-snapshots-AndroidDesktop_arm64/releases) | Blink, V8 | Android | Chromium Android builds with extensions support | 
 | [Cốc Cốc Browser](https://coccoc.com/en) ('knock knock' in Vietnamese) | Blink, (WebKit on iOS) | Android, iOS | Full-fledged browser with intuitive search engine |
 | [Comet](https://www.perplexity.ai/comet) | Chromium | Android | A Browser for Agentic Search by Perplexity |
 | [Cromite](https://github.com/uazo/cromite) | - | Android | Bromite fork with ad blocking |
